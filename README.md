@@ -5,3 +5,6 @@
 1. 先使用`npm install`安装所需依赖.
 2. 在开发过程中, 运行`npm run debug`命令, 然后去*http://127.0.0.1:3000/*看效果.
 3. 如果需要进行发布, 运行`npm run release`命令, 然后去*/dist/*目录下取压缩文件.
+
+# 视频教程
+本例子是[这一套React入门课程](http://leanote.com/blog/post/57858d9cab644133ed009dfb)的配套代码.
